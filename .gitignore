@@ -23,7 +23,9 @@ chroma/
 # Solutions
 solutions/*.ipynb
 # No subir archivos que no sean notebooks
-no_subir/*
+no_subir/*.*
+no_subir/chatbot*.*
+no_subir/notebooks_complete/*.*
 #*.ipynb
 
 
