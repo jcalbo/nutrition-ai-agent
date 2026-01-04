@@ -2,12 +2,12 @@
 
 
 Un **asistente nutricional completo potenciado por IA** que incluye:
-- 🧠 Comprensión de lenguaje natural con OpenAI's Agents SDK
-- 🔧 Llamadas a herramientas para interacciones con APIs externas
-- 📚 RAG para inteligencia contextual
-- 💾 Sistemas de memoria para continuidad en conversaciones
-- 🛡️ Guardrails para comportamiento seguro y confiable
-- ☁️ Despliegue en la nube con autenticación
+- Comprensión de lenguaje natural con OpenAI's Agents SDK
+- Llamadas a herramientas para interacciones con APIs externas
+- RAG para inteligencia contextual
+- Sistemas de memoria para continuidad en conversaciones
+- Guardrails para comportamiento seguro y confiable
+- Despliegue en la nube con autenticación
 
 ## Contenido del Curso
 
