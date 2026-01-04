@@ -21,10 +21,9 @@ ENV/
 chroma/
 
 # Solutions
-solutions/
-*.ipynb
+solutions/*.ipynb
 # No subir archivos que no sean notebooks
-no_subir
+no_subir/*.ipynb
 #*.ipynb
 
 
