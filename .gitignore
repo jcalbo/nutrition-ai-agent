@@ -22,6 +22,7 @@ chroma/
 
 # Solutions
 solutions/
+*.ipynb
 
 # Environment variables
 .env
