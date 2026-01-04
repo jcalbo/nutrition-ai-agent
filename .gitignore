@@ -23,7 +23,7 @@ chroma/
 # Solutions
 solutions/*.ipynb
 # No subir archivos que no sean notebooks
-no_subir/*.ipynb
+no_subir/*
 #*.ipynb
 
 
