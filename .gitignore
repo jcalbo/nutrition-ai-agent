@@ -20,6 +20,9 @@ ENV/
 # ChromaDB
 chroma/
 
+# Solutions
+solutions/
+
 # Environment variables
 .env
 .env.local
