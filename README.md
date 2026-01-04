@@ -1,4 +1,4 @@
-# Agente de IA para Consultas Nutricionales
+# Agente de IA para consultas sobre Nutrición
 
 
 Un **asistente nutricional completo potenciado por IA** que incluye:
