@@ -25,10 +25,11 @@ solutions/
 *.ipynb
 # No subir archivos que no sean notebooks
 no_subir
-*.ipynb
+#*.ipynb
 
-no_subir/notebooks_complete/
-*.ipynb
+
+#no_subir/notebooks_complete/*.ipynb
+
 
 # Environment variables
 .env
