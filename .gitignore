@@ -27,6 +27,9 @@ solutions/
 no_subir
 *.ipynb
 
+no_subir/notebooks_complete
+*.ipynb
+
 # Environment variables
 .env
 .env.local
