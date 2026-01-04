@@ -1,28 +1,28 @@
-# AI Agent for Nutrition queries
+# Agente de IA para Consultas Nutricionales
 
 
-A complete **AI-powered nutrition assistant** featuring:
-- 🧠 Natural language understanding with OpenAI's Agents SDK
-- 🔧 Tool calling for external API interactions
-- 📚 RAG for contextual intelligence
-- 💾 Memory systems for conversation continuity
-- 🛡️ Guardrails for safe, reliable behavior
-- ☁️ Cloud deployment with authentication
+Un **asistente nutricional completo potenciado por IA** que incluye:
+- 🧠 Comprensión de lenguaje natural con OpenAI's Agents SDK
+- 🔧 Llamadas a herramientas para interacciones con APIs externas
+- 📚 RAG para inteligencia contextual
+- 💾 Sistemas de memoria para continuidad en conversaciones
+- 🛡️ Guardrails para comportamiento seguro y confiable
+- ☁️ Despliegue en la nube con autenticación
 
-## Content Outline
+## Contenido del Curso
 
-**1 Foundations**
-- First simple agent
-- Tool calling and API integration
+**1. Fundamentos**
+- Primer agente simple
+- Llamadas a herramientas e integración con APIs
 
-**2 Advanced Capabilities**
-- Implement local RAG for knowledge retrieval
-- Work with Model Context Protocol (MCP)
+**2. Capacidades Avanzadas**
+- Implementación de RAG local para recuperación de conocimiento
+- Trabajo con Model Context Protocol (MCP)
 
-**3 Multi-Agent & Production**
-- Design multi-agent orchestration
-- Add memory, prompt engineering, guardrails
+**3. Multi-Agente y Producción**
+- Diseño de orquestación multi-agente
+- Añadir memoria, ingeniería de prompts y guardrails
 
-**4  Deploy to Production**
-- Build production-grade chatbot
-- Deploy to cloud platforms
+**4. Despliegue a Producción**
+- Construcción de chatbot para producción
+- Despliegue en plataformas cloud
